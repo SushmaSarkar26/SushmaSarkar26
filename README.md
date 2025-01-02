@@ -1,3 +1,4 @@
+![logo](https://github.com/sushmasarkar26/sushmasarkar26/blob/main/Github%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Sushma Sarkar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
